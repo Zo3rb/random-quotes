@@ -1,4 +1,4 @@
-## For Recapping React and MERN Stack in General - Live Version [https://random-quotes-machine-clone.netlify.app/](HERE)
+## For Recapping React and MERN Stack in General - Live Version (https://random-quotes-machine-clone.netlify.app/)[HERE]
 
 ### Unstructions
 ##### 1 - Download The Repo
